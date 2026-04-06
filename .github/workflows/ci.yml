@@ -13,5 +13,5 @@ jobs:
         with:
           node-version: 20
           cache: npm
-      - run: npm install
+      - run: npm install --legacy-peer-deps
       - run: npx tsc --noEmit
