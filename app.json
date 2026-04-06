@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Health Tracker",
+    "slug": "rn-health-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": { "backgroundColor": "#1a1a2e" },
+    "ios": { "bundleIdentifier": "com.solaris.rn-health-tracker", "supportsTablet": true },
+    "android": { "package": "com.solaris.rn_health_tracker", "adaptiveIcon": { "backgroundColor": "#1a1a2e" } },
+    "plugins": ["expo-router"]
+  }
+}
