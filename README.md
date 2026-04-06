@@ -2,6 +2,16 @@
 
 ![CI](https://github.com/Shaisolaris/rn-health-tracker/actions/workflows/ci.yml/badge.svg)
 
+
+## Quick Start
+
+```bash
+git clone https://github.com/Shaisolaris/rn-health-tracker.git
+cd rn-health-tracker
+npm install --legacy-peer-deps
+npx expo start
+```
+
 React Native health and fitness tracker built with Expo featuring daily activity rings (steps, calories, active minutes), workout logging with exercise sets, nutrition tracking with macro breakdowns, water intake counter, sleep monitoring, and weekly progress charts with bar visualizations. Uses Zustand for state management and SVG for ring progress indicators.
 
 ## Stack
