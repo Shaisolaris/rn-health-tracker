@@ -3,6 +3,9 @@
 ![CI](https://github.com/Shaisolaris/rn-health-tracker/actions/workflows/ci.yml/badge.svg)
 
 
+
+React Native health and fitness tracker with step counting, workout logging, meal tracking, and weekly progress. Expo + TypeScript + Zustand.
+
 ## Quick Start
 
 ```bash
